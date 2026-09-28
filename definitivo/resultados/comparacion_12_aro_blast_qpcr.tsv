@@ -1,0 +1,56 @@
+muestra	run	grupo	numero_12_aro	"BLAST muestra directa
+1 = positive
+0 = negative"	"qPCR muestra directa
+(copias/ ng ADN)"	blast_positivo	aro_positivo
+3	ERR9880675	Colonizado	0	0	3.88	False	False
+1	ERR9880677	Colonizado	0	0	0.17	False	False
+2	ERR9880682	Colonizado	9	1	605.33	True	True
+8	ERR9880685	Colonizado	0	0	0.12	False	False
+7	ERR9880686	Colonizado	0	0	36.78	False	False
+11	ERR9880689	Colonizado	0	0	0.04	False	False
+12	ERR9880692	Colonizado	12	1	5306.67	True	True
+14	ERR9880693	Colonizado	0	0	7.08	False	False
+13	ERR9880694	Colonizado	0	0	39.04	False	False
+18	ERR9880699	Colonizado	12	1	10120.0	True	True
+19	ERR9880701	Colonizado	0	0	10.89	False	False
+22	ERR9880702	Colonizado	0	0	1.18	False	False
+20	ERR9880703	Colonizado	0	0	0.33	False	False
+21	ERR9880706	Colonizado	8	1	493.33	True	True
+23	ERR9880707	Colonizado	0	0	29.93	False	False
+41	ERR9880711	Colonizado	0	0	189.2	False	False
+40	ERR9880714	Colonizado	0	0	0.52	False	False
+42	ERR9880716	Colonizado	0	0	14.35	False	False
+44	ERR9880718	Colonizado	12	1	1729.33	True	True
+43	ERR9880719	Colonizado	0	0	0.18	False	False
+35	ERR9880721	Colonizado	3	0	220.4	False	True
+34	ERR9880772	Colonizado	1	1	159.87	True	True
+36	ERR9880773	Colonizado	0	0	89.6	False	False
+45	ERR9880777	Colonizado	12	1	7400.0	True	True
+46	ERR9880787	Colonizado	11	1	924.0	True	True
+47	ERR9880793	Colonizado	0	0	3.32	False	False
+71	ERR9882532	Colonizado	0	0	0.05	False	False
+72	ERR9882534	Colonizado	6	1	304.53	True	True
+70	ERR9882535	Colonizado	0	0	9.97	False	False
+73	ERR9882540	Colonizado	0	0	40.12	False	False
+75	ERR9882541	Colonizado	12	1	18133.33	True	True
+74	ERR9882542	Colonizado	10	1	8946.67	True	True
+85	ERR9882657	Colonizado	0	0	0.54	False	False
+88	ERR9882662	Colonizado	0	0	3.23	False	False
+86	ERR9882711	Colonizado	0	0	1.39	False	False
+84	ERR9882712	Colonizado	12	1	925.33	True	True
+87	ERR9882716	Colonizado	0	0	0.07	False	False
+92	ERR9883043	Colonizado	12	1	18893.33	True	True
+98	ERR9883045	Colonizado	0	0	5.46	False	False
+96	ERR9883046	Colonizado	0	0	1.18	False	False
+94	ERR9883047	Colonizado	0	0	0.8	False	False
+90	ERR9883048	Colonizado	12	1	1605.33	True	True
+89	ERR9883049	Colonizado	12	1	44533.33	True	True
+91	ERR9883050	Colonizado	12	1	21920.0	True	True
+95	ERR9883051	Colonizado	0	0	0.26	False	False
+103	ERR9883052	Colonizado	0	0	0.57	False	False
+99	ERR9883053	Colonizado	0	0	0.02	False	False
+93	ERR9883054	Colonizado	0	0	19.63	False	False
+102	ERR9883055	Colonizado	0	1	87.87	True	False
+100	ERR9883056	Colonizado	12	1	2810.67	True	True
+101	ERR9883057	Colonizado	12	1	41333.33	True	True
+97	ERR9883251	Colonizado	12	1	9440.0	True	True

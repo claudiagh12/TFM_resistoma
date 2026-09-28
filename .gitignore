@@ -1,0 +1,103 @@
+# Datos de secuenciación
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Archivos temporales y comprimidos grandes
+*.tmp
+*.temp
+*.frag.gz
+*.fsa
+*.aln
+*.vcf.gz
+
+# Resultados intermedios grandes de KMA
+results/kma/*.res
+results/kma/*.frag.gz
+results/kma/*.fsa
+results/kma/*.aln
+results/kma/*.vcf.gz
+
+# Bases de datos locales
+localDB/
+*/localDB/
+
+# Entornos y archivos de Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs temporales
+*.log~
+
+# Archivos de editor
+*.swp
+*.swo
+*~
+
+# Archivos personales o documentos de trabajo
+*.docx
+*.doc
+
+# Bases CARD locales
+card_database_v4.0.1.fasta
+card_database_v4.0.1_all.fasta
+
+# Carpetas de trabajo no incluidas en el repositorio final
+historico/
+host_filter/
+piloto/
+localDB/
+logs/
+metadatos/
+metadata/
+
+# Archivos de trabajo en la raíz
+.Rhistory
+*.res
+environment_full.yml
+
+# Carpetas de trabajo no incluidas en el repositorio final
+historico/
+host_filter/
+piloto/
+localDB/
+logs/
+metadatos/
+metadata/
+
+# Archivos de trabajo en la raíz
+.Rhistory
+*.res
+environment_full.yml
+
+# Archivos auxiliares de KMA: no incluidos en el repositorio final
+definitivo/kma/*.aln
+definitivo/kma/*.fsa
+definitivo/kma/*.tsv
+definitivo/kma/*.gz
+definitivo/registros/
+
+# Archivos auxiliares de KMA: no incluidos en el repositorio final
+definitivo/kma/*.aln
+definitivo/kma/*.fsa
+definitivo/kma/*.tsv
+definitivo/kma/*.gz
+definitivo/registros/
+
+# Archivos auxiliares de KMA: no incluidos en el repositorio final
+definitivo/kma/*.aln
+definitivo/kma/*.fsa
+definitivo/kma/*.tsv
+definitivo/kma/*.gz
+definitivo/registros/
+
+# Archivos ZIP de FastQC
+definitivo/control_calidad/*.zip
+definitivo/control_calidad/fastqc_crudo/*.zip
+definitivo/control_calidad/fastqc_limpio/*.zip
